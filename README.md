@@ -1,0 +1,1 @@
+# cotton-plant-disease-detecton-and-preventions-using-image-processing
